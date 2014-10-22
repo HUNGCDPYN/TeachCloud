@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: jo.just.palette
+OpenIDE-Module-Localizing-Bundle: jo/just/palette/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
